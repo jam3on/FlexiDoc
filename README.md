@@ -22,9 +22,9 @@ Download the latest release of the project from the [Releases](https://github.co
     ```
 2. **DOCX Template**: Prepare a DOCX file with placeholders wrapped in curly braces. Example:
     ```docx
-    Title: {title}
-    Date: {date}
-    Author: {author}
+    Title: {{title}}
+    Date: {{date}}
+    Author: {{author}}
     ```
 
 3. **Run the Tool** : Use the following CLI arguments to run the tool:
